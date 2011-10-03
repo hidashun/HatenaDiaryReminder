@@ -1,0 +1,6 @@
+/resource
+/tests
+.settings
+.pydevproject
+.project
+.DS_Store
